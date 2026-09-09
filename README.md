@@ -12,7 +12,10 @@ Aplikasi ini dibuat untuk mempelajari dasar-dasar pengembangan aplikasi mobile m
 3. Menampilkan data statis
 
 ## Cara Menjalankan
-Pastikan Flutter SDK sudah terinstall. Jalankan perintah berikut di terminal pada folder root proyek:
+
+Pastikan Flutter SDK sudah terinstall (minimal versi 3.0.0). 
+Cek versi Flutter dengan perintah:
 ```bash
+flutter --version
 flutter pub get
 flutter run
